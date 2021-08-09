@@ -12,7 +12,7 @@ omnifixo的官网：https://omnifixo.com/
 
 提供solidworks 2017模型
 
-| ![多视角（multi-angle）](images/多视角（multi-angle）.png) | ![零件明细（Parts list）](images/零件明细（Parts list）.png) |
+| ![多视角（multi-angle）](images/多视角（multi-angle）.png) | ![零件明细（Parts list）](images/零件明细（Parts-list）.png) |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
 
 想更大吸力的可以修改底座的模型用3mm厚度的磁铁
