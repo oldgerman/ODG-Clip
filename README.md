@@ -4,7 +4,7 @@
 
 本资料用于研究专利产品omnifixo的设计，免费供学习交流使用
 不得将本资料及使用本资料制作出的仿制版夹具用于商业用途！
-omnifixo的官网：https://omnifixo.com/
+[omnifixo的官网](https://omnifixo.com/)
 
 ![测试版：夹持10x10cm](images/测试版：夹持10x10cm.JPG)
 
